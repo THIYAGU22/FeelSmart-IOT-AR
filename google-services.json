@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1090806680287",
+    "firebase_url": "https://feelsmart-9ffe7.firebaseio.com",
+    "project_id": "feelsmart-9ffe7",
+    "storage_bucket": "feelsmart-9ffe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090806680287:android:6e9bd08b0ffb87ae",
+        "android_client_info": {
+          "package_name": "com.example.feelsmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090806680287-ocgnjkvn6aduevd2i8dp1eqoo0m1a5d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX0ci2qmVd5XnoOt-3RaPi6HIk1o0OOFQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
